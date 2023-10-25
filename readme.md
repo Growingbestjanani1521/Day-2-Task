@@ -1,0 +1,1 @@
+Zen class day 2 "difference between document and window objects" task completed
